@@ -27,7 +27,7 @@ _You can copy and paste these checklists into your new repository and fill them 
 ### Standard Requirements
 
 - [x] Setup eslint
-- [] Pass all linting checks
+- [x] Pass all linting checks
   - To check if linting passes, run `npm run lint`
 - [x] Format code with prettier
 - [x] State should not be duplicated
@@ -48,4 +48,4 @@ _You can copy and paste these checklists into your new repository and fill them 
   - yellow light should be the middle light
   - green light should be the bottom light
 - [x] Next State button should go to the next state on the functional traffic light
-- [] Next State button should go to the next state on the class based traffic light
+- [x] Next State button should go to the next state on the class based traffic light
